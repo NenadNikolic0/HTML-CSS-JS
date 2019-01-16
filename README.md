@@ -1,2 +1,2 @@
 # Insajder-Web-Site
-This is sample of HTML CSS and Javascript Code 
+This is example of HTML CSS and Javascript Code 
